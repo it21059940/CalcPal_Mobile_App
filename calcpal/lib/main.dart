@@ -1,4 +1,4 @@
-import 'package:calcpal/Pages/Loing.dart';
+import 'package:calcpal/Pages/Loging.dart';
 import 'package:flutter/material.dart';
 
 void main() {
